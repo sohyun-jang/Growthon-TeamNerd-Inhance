@@ -1,6 +1,8 @@
 # 2024 Growthon
+- Date : 2024.06.19
 - 2024 Growthon 팀원 공유 및 저장용
 - Inhance App : 인하대 학생들을 위한 올인원 서비스 (with ChatGPT)
+- Award : 최우수상 (2등)
 
 ## Contributers
 
